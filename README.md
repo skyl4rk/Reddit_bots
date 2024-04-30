@@ -2,7 +2,7 @@
 
 Scrape Google News using search terms, post to Reddit using googlenews.py. 
 
-Search subreddits using search terms, crosspost to a subreddit using search.py. 
+Search subreddits using search terms, crosspost submissions to a subreddit using search.py. 
 
 Mirror a subreddit by crossposting submissions to another subreddit using cities.py.
 
@@ -14,7 +14,7 @@ You should start a subreddit to use these scripts with you as moderator.
 
 Change the search terms to those which you would prefer.  Change the blocked strings to things you do not want to see in your feed.
 
-Check the time zone adjustment, the current adjustment is for US Eastern Time, - 4 hours (in seconds). 
+Check the time zone adjustment, the current adjustment is for US Eastern Time, - 4 hours (in seconds). Some scripts may not require adjustment.
 
 Run the scripts daily, or hourly using cron and the .sh files.
 
