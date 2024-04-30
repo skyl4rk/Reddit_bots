@@ -18,7 +18,7 @@ Check the time zone adjustment, the current adjustment is for US Eastern Time, -
 
 Run the scripts daily, or hourly using cron and the .sh files.
 
-Before running cron, run in terminal with the crosspost or submit line disabled by commenting it out.  You may then fine tune your search terms and blocked strings. When you are satisfied with the result, run with cron.
+Before running cron, run in terminal with the crosspost or submit line disabled by commenting it out.  You may then fine tune your search terms and blocked strings. When you are satisfied with the result, uncomment the submit or crosspost line, and run with cron.
 
 
 
